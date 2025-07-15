@@ -1,4 +1,4 @@
-# Task Manager • Internship Project
+# Task Manager
 
 A beautiful, modern Task Manager built with React, Vite, TypeScript, Tailwind CSS, and shadcn/ui. Designed for internship showcase and real-world usability.
 
